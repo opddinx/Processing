@@ -3,4 +3,4 @@
 
 ## refference
 
-- [Generative Art - Matt Pearson[(http://www.bnn.co.jp/books/7199/)
+- [Generative Art - Matt Pearson](http://www.bnn.co.jp/books/7199/)
